@@ -421,9 +421,15 @@ h6,
 #header3-4 .mbr-section-subtitle {
   text-align: center;
 }
+#header3-4 .mbr-section-title {
+  font-size: 36px;
+}
 #social-buttons4-15 .mbr-section-title,
 #social-buttons4-15 .btn-social {
   color: #fff;
+}
+#social-buttons4-15 .mbr-section-title {
+  font-size: 36px;
 }
 #ext_menu-2 .hide-buttons .nav-btn {
   display: none !important;
@@ -584,6 +590,9 @@ h6,
 #header3-h .mbr-section-subtitle {
   text-align: center;
 }
+#header3-h .mbr-section-title {
+  font-size: 36px;
+}
 #ext_menu-i .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -659,6 +668,9 @@ h6,
 }
 #form1-1a .form-control-label {
   color: #232323;
+}
+#form1-1a .mbr-section-title {
+  font-size: 36px;
 }
 #ext_menu-s .hide-buttons .nav-btn {
   display: none !important;
