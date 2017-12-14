@@ -1,0 +1,14 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://mysite.it/index.html</loc>
+	</url>
+	<url>
+		<loc>http://mysite.it/corsi.html</loc>
+	</url>
+	<url>
+		<loc>http://mysite.it/persone.html</loc>
+	</url>
+	<url>
+		<loc>http://mysite.it/contatti.html</loc>
+	</url>
+</urlset>
