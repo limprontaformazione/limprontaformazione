@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "limprontaformazione-clone",
-    "currentPage": "index.html",
+    "currentPage": "persone.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -20,10 +20,14 @@
         "isScrollToTopButton": false,
         "isRtl": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#677b42",
+        "#2e2e2e",
+        "#282828"
+      ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 47,
+    "uniqCompNum": 56,
     "versionPublish": "4.5.2",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -34,7 +38,8 @@
     "noImageResize": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "google-analytics": "",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -55,7 +60,9 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "32px"
+              "font-size": "30px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             ".mbr-section-text": {
               "font-size": "18px"
@@ -67,8 +74,8 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "showArrow": false,
-            "imageSize": "56",
+            "showArrow": true,
+            "imageSize": "61",
             "bgImageRadio": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
             "parallax": false,
@@ -79,14 +86,14 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": "0.4"
+            "overlayColor": "#2e2e2e",
+            "overlayOpacity": "0.3"
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-20150416-wa0001-2-1280x960.jpg",
+              "src": "@PROJECT_PATH@/assets/images/whatsapp-image-2018-01-15-at-15.06.46-1024x682.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -104,17 +111,13 @@
             }
           },
           "title": "FORMAZIONE LINGUISTICA PROFESSIONALE",
-          "text": "La formazione offerta da l'impronta è personalizzata in base alle esigenze del cliente, al fine di ottimizzare il suo investimento&nbsp;in termini economici e di tempo.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#header3-4\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet"
+          "text": "La formazione offerta da l'impronta è personalizzata in base alle esigenze del cliente, al fine di ottimizzare il suo investimento&nbsp;in termini economici e di tempo.<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#header3-4\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px"
             }
           },
           "_tags": [
@@ -142,8 +145,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>L’impronta</b> è un centro di formazione linguistica e professionale, fondato da &nbsp;insegnanti che hanno precedentemente maturato importanti esperienze aziendali.</p><p><br></p><p>L'attività offerta da L’impronta è personalizzata tenendo conto delle esigenze di ogni cliente/studente al fine di ottimizzare l'investimento in termini economici e di tempo.</p><p><br></p><p>La dottoreressa Tiziana Beeckmans è la direttrice responsabile del centro.</p>",
-          "text2": "<p><b>Ma l’impronta non è solo formazione</b>, da sempre strizza l'occhio al <b>marketing</b> e alle <b>vendite</b>, per questo è attivo anche con fiere ed eventi. I professionisti de L’impronta svolgono corsi di formazione in francese e inglese per le aziende che necessitano di trasferire contenuti propri e specifici in queste lingue.</p><p><br></p><p>I corsi tenuti da l’impronta si svolgono o presso il luogo di lavoro o domicilio del cliente o studente, per avvantaggiore ed ottimizzare i tempi degli studenti, oppure presso Spazio Procaccini 32 in via Procaccini 32 a Milano.</p>"
+          "text1": "<p><b>L’impronta</b> è un centro di formazione linguistica e professionale, fondato da &nbsp;insegnanti che hanno precedentemente maturato importanti esperienze aziendali.</p><p><br></p><p>L'attività offerta da L’impronta è personalizzata tenendo conto delle esigenze di ogni cliente/studente al fine di ottimizzare i tempi di apprendimento.</p><p><br></p><p>Collaboriamo con importanti Enti per l'attivazione di piani formativi finanziati.</p><p><br></p><p>La dottoressa Tiziana Beeckmans è la direttrice responsabile del centro.</p>",
+          "text2": "<p><b>Ma L’impronta non è solo formazione</b>, da sempre strizza l'occhio al <b>marketing</b> e alle <b>vendite</b>, per questo è attivo anche con fiere ed eventi. I professionisti de L’impronta svolgono corsi di formazione in francese e inglese per le aziende che necessitano di trasferire contenuti propri e specifici in queste lingue.</p><p><br></p><p>La nostra marcia in più: L'impronta prima di iniziare i corsi si aggiorna sul <b>linguaggio tecnico specifico del settore merceologico&nbsp;</b><span style=\"font-size: 1.07rem;\"><b>del cliente</b>.</span></p><p><br></p><p>I corsi tenuti da L’impronta si svolgono presso il luogo di lavoro o domicilio del cliente o studente, per avvantaggiare ed ottimizzare i tempi degli studenti, oppure presso <b><a href=\"https://www.spazioprocaccini32.it/\" target=\"_blank\">Spazio Procaccini32</a></b> in via Procaccini 32 a Milano.</p>"
         },
         {
           "_tags": [
@@ -159,34 +162,23 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"corsi.html\" data-toolbar=\"-mbrBtnMove\">VEDI TUTTI I CORSI</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"contatti.html\" data-toolbar=\"-mbrBtnMove\">CONTATTACI</a>"
         },
         {
-          "_inherit": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px"
-            }
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2e2e2e"
           },
+          "text": "<p>\"Tutto è possibile, è solo una questione di tempo. Il tempo di comprendere in che modo sia possibile\".</p><p><i>Marc Levy</i></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-15",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "text": "e seguici su",
-          "icons": "       <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/tiziana-giulietta-beeckmans-7254a63a/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "_name": "content1",
+          "_anchor": "content1-1d",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_inherit": "menu",
@@ -201,34 +193,34 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#4b5a30"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#5f713d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#677b42"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -239,15 +231,6 @@
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
               "color": "#c0a375!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
             }
           },
           "_name": "ext.menu",
@@ -259,16 +242,16 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": 0.75,
+            "bgColor": "#677b42",
+            "fontSize": "1",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-bn-pos-1-618x120.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-verde-4-618x120.jpg",
               "height": 128,
               "alt": "L'impronta formazione linguistica",
               "link": "http://www.limprontaformazione.it",
@@ -281,7 +264,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CHI SIAMO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"persone.html\">Tiziana&nbsp;Beeckmans</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"corsi.html\">I CORSI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contatti.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"ftp://it31.siteground.eu//public_html/locodesign%20communication-low.compressed.pdf\" target=\"_blank\">DOWNLOAD CATALOGO CORSI</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CHI SIAMO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"persone.html\">Tiziana&nbsp;Beeckmans</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"corsi.html\">I CORSI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contatti.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"ftp://it31.siteground.eu//public_html/locodesign%20communication-low.compressed.pdf\" target=\"_blank\">DOWNLOAD CATALOGO CORSI</a></li>"
         },
         {
           "_tags": [
@@ -289,8 +272,11 @@
           ],
           "_name": "contacts2",
           "_styles": {
+            "UL": {
+              "color": "#ffffff"
+            },
             "P": {
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts2-6",
@@ -301,7 +287,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#677b42",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -312,8 +298,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "<p><strong>Sede legale</strong><br>Via Primo Maggio 2<br>20090 Segrate - Milano, Italia</p><p>P.Iva 09647260968<br><br>\n<strong>Contatti</strong><br>\nEmail: <a href=\"mailto:Tiziana Giulietta Beeckmans &lt;tizianabeeckmans@yahoo.it&gt;\" class=\"text-white\"></a><a href=\"mailto:info@limprontaformazione.it\" class=\"text-white\">info@limprontaformazione.it&nbsp;</a><tizianabeeckmans@yahoo.it></tizianabeeckmans@yahoo.it><br>\nPhone: +39 328 3865599</p><br><p><br></p><br><p>Credits: <a href=\"http://lorenzacozzoni.ilbello.com/\" class=\"text-black\" target=\"_blank\">loco|design</a></p>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html#header3-4\" class=\"text-black\">CHI SIAMO</a><a href=\"index.html#header3-4\"></a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"corsi.html\" class=\"text-black\">I CORSI</a></li><li><a href=\"contatti.html\" class=\"text-black\">CONTATTI</a></li><li><a href=\"http://www.limprontaformazione.it\" target=\"_blank\" class=\"text-black\">DOWNLOAD CATALOGO CORSI</a></li></ul>"
+          "text1": "<p><br></p><p>Via Primo Maggio 2<br>20090 Segrate - Milano, Italia</p><p>P.Iva 09647260968<br><br><br>\nEmail: <a href=\"mailto:Tiziana Giulietta Beeckmans &lt;tizianabeeckmans@yahoo.it&gt;\" class=\"text-white\"></a><a href=\"mailto:info@limprontaformazione.it\" class=\"text-white\">info@limprontaformazione.it&nbsp;</a><tizianabeeckmans@yahoo.it></tizianabeeckmans@yahoo.it><br>\nPhone: +39 328 3865599</p><br><p><br></p><br><p><br></p><br><p>Credits: <a href=\"http://lorenzacozzoni.ilbello.com/\" class=\"text-white\" target=\"_blank\">loco|design</a></p>",
+          "text2": "<ul><li><a href=\"index.html#header3-4\" class=\"text-white\">CHI SIAMO</a><a href=\"index.html#header3-4\"></a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"corsi.html\" class=\"text-white\">I CORSI</a></li><li><a href=\"contatti.html\" class=\"text-white\">CONTATTI</a></li><li><a href=\"http://www.limprontaformazione.it\" target=\"_blank\" class=\"text-white\">DOWNLOAD CATALOGO CORSI</a></li></ul>"
         }
       ]
     },
@@ -379,27 +365,26 @@
               "name": "smile-face",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
           "title1": "Italiano per stranieri",
           "subtitle1": "Integrazione",
-          "caption1": "Sempre più frequentemente, manager e dirigenti stranieri si trovano a dover operare in Italia e non è raro che sentano la necessità di apprendere l’italiano, non soltanto per potersi esprimere nella loro vita di relazione ma anche e soprattutto per comunicare nell’ambito lavorativo.&nbsp;",
+          "caption1": "Sempre più frequentemente, manager e dirigenti stranieri si trovano a dover operare in Italia e non è raro che sentano la necessità di apprendere l’italiano, non soltanto per potersi esprimere nella loro vita di relazione ma anche e soprattutto per comunicare nell’ambito lavorativo.&nbsp;<br>Si organizzano corsi di cultura e lingua italiana a favore dei familiari del dipendente straniero.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"contatti.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
               "name": "mobile",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "family": "et-line",
+              "active": true,
+              "size": 0
             }
           },
           "title2": "Inglese e francese&nbsp;",
           "subtitle2": "Coinvolgimento",
-          "caption2": "Applichiamo un metodo altamente efficacie per l'accrescimento della competenza linguistica sin dal livello base.<br>L’impronta è fortemente orientata all’insegnamento di inglese e francese utilizzando un approccio completamente diverso dal consueto. <br>Il nostro metodo si basa sul coinvolgimento immediato dello studente.<br>",
+          "caption2": "Applichiamo un metodo altamente efficacie per l'accrescimento della competenza linguistica sin dal livello base.<br>L’impronta utilizza un approccio completamente diverso dal consueto. <br>Il nostro metodo si basa sull'immediato coinvolgimento  attivo dello studente.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"contatti.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -408,27 +393,26 @@
               "name": "pencil",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
           "title3": "Linguaggio degli affari",
           "subtitle3": "Linguaggio tecncico specifico",
-          "caption3": "Il nostro metodo si basa sul coinvolgimento immediato dello studente nel suo contesto professionale specifico.<br>Questo è possibile grazie all'importante esperienza aziendale e di insegnamento dei nostri docenti. Lo studente quindi si trova ad interagire molto velocemente e con soddisfazione nell'ambiente professionale. <br><b>La nostra marcia in più: l'impronta prima di iniziare i corsi si aggiorna sul linguaggio tecnico specifico del settore merceologico </b><br><b>del cliente</b>.<br>",
+          "caption3": "Il nostro metodo si basa sul coinvolgimento immediato dello studente nel suo contesto professionale specifico.<br>Questo è possibile grazie all'importante esperienza aziendale e di insegnamento dei nostri docenti. Lo studente quindi si trova ad interagire molto velocemente e con soddisfazione nel proprio ambiente professionale. <br><b>La nostra marcia in più: l'impronta prima di iniziare i corsi si aggiorna sul linguaggio tecnico specifico del settore merceologico </b><br><b>del cliente</b>.<br>",
           "button3": "<a data-app-btn=\"true\" href=\"contatti.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
               "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "family": "et-line",
+              "active": true,
+              "size": 0
             }
           },
           "title4": "Le presentazioni in inglese e in francese",
           "subtitle4": "Capacità relazionali",
-          "caption4": "Il corso è rivolto a chi ha necessità di fare presentazioni professionali scritte e/o orali in inglese <br>o francese.<br>La finalità del corso è di essere in grado di strutturare una presentazione in modo corretto, diretto, efficacie e interessante.<br>",
+          "caption4": "Il corso è rivolto a chi ha necessità di fare presentazioni professionali scritte e/o orali in inglese <br>o francese.<br>La finalità del corso è di strutturare una presentazione in modo corretto, diretto, efficacie e interessante.<br>",
           "button4": "<a data-app-btn=\"true\" href=\"contatti.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -472,13 +456,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "1rem"
@@ -490,16 +474,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#4b5a30"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#5f713d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#677b42"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -521,21 +505,20 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#677b42",
             "fontSize": "1",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-bn-pos-1-618x120.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-verde-4-618x120.jpg",
               "height": 128,
               "alt": "L'impronta formazione linguistica",
               "link": "http://www.limprontaformazione.it",
-              "title": "L'impronta formazione linguistica",
-              "linkInNewWindow": false
+              "title": "L'impronta formazione linguistica"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -544,7 +527,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CHI SIAMO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"persone.html\">Tiziana&nbsp;Beeckmans</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"corsi.html\">I CORSI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contatti.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"ftp://it31.siteground.eu//public_html/locodesign%20communication-low.compressed.pdf\" target=\"_blank\">DOWNLOAD CATALOGO CORSI</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CHI SIAMO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"persone.html\">Tiziana&nbsp;Beeckmans</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"corsi.html\">I CORSI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contatti.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"ftp://it31.siteground.eu//public_html/locodesign%20communication-low.compressed.pdf\" target=\"_blank\">DOWNLOAD CATALOGO CORSI</a></li>"
         },
         {
           "_inherit": "features1",
@@ -600,13 +583,12 @@
               "name": "cart-full",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
           "title1": "Operatori di customer care",
           "subtitle1": "Abilità comunicative",
-          "caption1": "Si tratta di un corso rivolto agli operatori commerciali di customer care e responsabili di team.<br>Finalità del corso: essere in grado di padroneggiare le abilità comunicative per valorizzare al meglio il contatto con il potenziale cliente, riconoscere gli ostacoli alla comunicazione efficace, attivare le capacità di problem solving, gestire in modo positivo le obiezioni&nbsp;<br>Il corso può essere personalizzato per l'azienda e il settore merceologico specifico.",
+          "caption1": "Si tratta di un corso rivolto agli operatori commerciali di customer care e responsabili di team.<br>Finalità del corso: padroneggiare le abilità comunicative per valorizzare al meglio il contatto con il potenziale cliente, riconoscere gli ostacoli alla comunicazione efficace, attivare le capacità di problem solving, gestire in modo positivo le obiezioni&nbsp;<br>Il corso può essere personalizzato per l'azienda e il settore merceologico specifico.",
           "button1": "<a data-app-btn=\"true\" href=\"contatti.html#form1-w\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -615,13 +597,12 @@
               "name": "gears",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
           "title2": "L’obiezione: da svantaggio a possibilità di vendita",
           "subtitle2": "Opportunità",
-          "caption2": "Si tratta di un corso rivolto a chi ha relazioni commerciali internazionali (ad eventuale integrazione al corso <br><b>Operatori di vendita</b>).<br>Finalità del corso: essere in grado di gestire in modo vantaggioso l’obiezione commerciale, trasformandola in un’occasione di vendita o di relazione.<br>",
+          "caption2": "Si tratta di un corso rivolto a chi ha relazioni commerciali internazionali (ad eventuale integrazione al corso <br><b>Operatori di vendita</b>).<br>Finalità del corso: gestire in modo vantaggioso l’obiezione commerciale, trasformandola in un’occasione di vendita o di relazione.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"contatti.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -630,13 +611,12 @@
               "name": "chat",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
           "title3": "Operatori di vendita",
           "subtitle3": "Capacità relazionali",
-          "caption3": "Si tratta di un corso rivolto agli operatori di punto vendita titolari e collaboratori, agli incaricati delle relazioni con il pubblico e a tutti coloro che desiderano migliorare la propria capacità relazionale.<br>Finalità del corso: fornire le indicazioni per analizzare al meglio verso quale tipologia di clientela si vuole orientare l’attività d’impresa, valorizzare il comportamento delle soggettività coinvolte verso una migliore capacità di relazione, di sensibilizzazione nel cogliere bisogno di consumo dei potenziali acquirenti e di potenziamento delle attitudini personali attraverso le principali tecniche di comunicazione.<br>",
+          "caption3": "Si tratta di un corso rivolto agli operatori di punto vendita titolari e collaboratori, agli incaricati delle relazioni con il pubblico e a tutti coloro che desiderano migliorare la propria capacità relazionale.<br>Finalità del corso: fornire le indicazioni per analizzare al meglio verso quale tipologia di clientela si vuole orientare l’attività d’impresa, valorizzare il comportamento delle persone coinvolte verso una migliore capacità di relazione e di sensibilizzazione nel saper cogliere il bisogno di consumo dei potenziali acquirenti.<br>",
           "button3": "<a data-app-btn=\"true\" href=\"contatti.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -645,13 +625,12 @@
               "name": "linegraph",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
               "size": 0
             }
           },
           "title4": "Educazione finanziaria",
           "subtitle4": "Capacità relazionali",
-          "caption4": "Finalità del corso è di analizzare la situazione economica, di come orientare gli investimenti (azioni, obbligazioni, alternativi), riflessioni su rischi e rendimento.&nbsp;<br><br>",
+          "caption4": "Essere messi in grado di comprendere come sviluppare il processo decisionale relativo ai propri investimenti partendo dall'analisi della situazione economica del paese.<br>",
           "button4": "<a data-app-btn=\"true\" href=\"contatti.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -683,6 +662,145 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_inherit": "features1",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "video",
+              "family": "et-line",
+              "active": true,
+              "size": 0
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "strategy",
+              "family": "et-line",
+              "active": true,
+              "size": 0
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "target",
+              "family": "et-line",
+              "active": true,
+              "size": 0
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "linkInNewWindow": false,
+              "name": "global",
+              "family": "et-line",
+              "active": true,
+              "size": 0
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features2",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#282828",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "e-learning",
+          "subtitle1": "Formazione a distanza",
+          "caption1": "Superiamo ogni distanza! <br>Arriviamo da voi anche se vi troverete dall'altra parte del mondo grazie a soluzioni formative e-learning personalizzate per le vostre esigenze di tempo e di apprendimento.<br>Potenziamo la formazione in aula con integrazioni web.<br>Proponiamo esercitazioni per la verifica dei risultati ottenuti <br>durante il processo formativo<br>",
+          "title2": "Job",
+          "subtitle2": "Simulazioni di situazioni lavorative",
+          "caption2": "L'impronta grazie all'importante esperienza nell'ambito delle HR, offre il servizio di traduzione dei curricula e organizza simulazioni di job interview/entretien d'embauche.<br>",
+          "title3": "Job",
+          "subtitle3": "Simulazioni di situazioni lavorative",
+          "caption3": "L'impronta grazie all'importante esperienza nell'ambito delle HR, offre il servizio di traduzione dei curricula e organizza simulazioni di job interview/entretien d'embauche.<br>",
+          "title4": "",
+          "subtitle4": "",
+          "caption4": "",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"contatti.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"contatti.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"contatti.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"contatti.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features2",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#282828"
+            }
+          },
+          "_anchor": "features2-1b"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2e2e2e"
+          },
+          "text": "<p>\"La conoscenza è un tesoro, ma la pratica è la sua chiave.\"</p><p><i>Lau Tzu</i></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "content1-1f"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -695,7 +813,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#677b42",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -706,11 +824,14 @@
               "stateDetails": ""
             }
           },
-          "text1": "<p><strong>Sede legale</strong><br>Via Primo Maggio 2<br>20090 Segrate - Milano, Italia</p><p>P.Iva 09647260968<br><br>\n<strong>Contatti</strong><br>\nEmail: <a href=\"mailto:Tiziana Giulietta Beeckmans &lt;tizianabeeckmans@yahoo.it&gt;\" class=\"text-white\"></a><a href=\"mailto:info@limprontaformazione.it\" class=\"text-white\">info@limprontaformazione.it&nbsp;</a><tizianabeeckmans@yahoo.it></tizianabeeckmans@yahoo.it><br>\nPhone: +39 328 3865599</p><br><p><br></p><br><p>Credits: <a href=\"http://lorenzacozzoni.ilbello.com/\" class=\"text-black\" target=\"_blank\">loco|design</a></p>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html#header3-4\" class=\"text-black\">CHI SIAMO</a><a href=\"index.html#header3-4\"></a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"corsi.html\" class=\"text-black\">I CORSI</a></li><li><a href=\"contatti.html\" class=\"text-black\">CONTATTI</a></li><li><a href=\"http://www.limprontaformazione.it\" target=\"_blank\" class=\"text-black\">DOWNLOAD CATALOGO CORSI</a></li></ul>",
+          "text1": "<p><br></p><p>Via Primo Maggio 2<br>20090 Segrate - Milano, Italia</p><p>P.Iva 09647260968<br><br><br>\nEmail: <a href=\"mailto:Tiziana Giulietta Beeckmans &lt;tizianabeeckmans@yahoo.it&gt;\" class=\"text-white\"></a><a href=\"mailto:info@limprontaformazione.it\" class=\"text-white\">info@limprontaformazione.it&nbsp;</a><tizianabeeckmans@yahoo.it></tizianabeeckmans@yahoo.it><br>\nPhone: +39 328 3865599</p><br><p><br></p><br><p><br></p><br><p>Credits: <a href=\"http://lorenzacozzoni.ilbello.com/\" class=\"text-white\" target=\"_blank\">loco|design</a></p>",
+          "text2": "<ul><li><a href=\"index.html#header3-4\" class=\"text-white\">CHI SIAMO</a><a href=\"index.html#header3-4\"></a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"corsi.html\" class=\"text-white\">I CORSI</a></li><li><a href=\"contatti.html\" class=\"text-white\">CONTATTI</a></li><li><a href=\"http://www.limprontaformazione.it\" target=\"_blank\" class=\"text-white\">DOWNLOAD CATALOGO CORSI</a></li></ul>",
           "_styles": {
+            "UL": {
+              "color": "#ffffff"
+            },
             "P": {
-              "color": "#000000"
+              "color": "#ffffff"
             }
           }
         }
@@ -730,9 +851,6 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px"
             }
           },
           "_tags": [
@@ -762,13 +880,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "1rem"
@@ -780,16 +898,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#4b5a30"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#5f713d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#677b42"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -811,16 +929,16 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#677b42",
             "fontSize": "1",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-bn-pos-1-618x120.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-verde-4-618x120.jpg",
               "height": 128,
               "alt": "L'impronta formazione linguistica",
               "link": "http://www.limprontaformazione.it",
@@ -834,7 +952,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CHI SIAMO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"persone.html\">Tiziana&nbsp;Beeckmans</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"corsi.html\">I CORSI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contatti.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"ftp://it31.siteground.eu//public_html/locodesign%20communication-low.compressed.pdf\" target=\"_blank\">DOWNLOAD CATALOGO CORSI</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CHI SIAMO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"persone.html\">Tiziana&nbsp;Beeckmans</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"corsi.html\">I CORSI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contatti.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"ftp://it31.siteground.eu//public_html/locodesign%20communication-low.compressed.pdf\" target=\"_blank\">DOWNLOAD CATALOGO CORSI</a></li>"
         },
         {
           "_tags": [
@@ -861,7 +979,7 @@
             "showButtons": true,
             "columnsColor": "#ffffff",
             "paddingTop": "0",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "columns": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -889,7 +1007,7 @@
           },
           "title1": "Tiziana Beeckmans",
           "subtitle1": "Direttrice responsabile",
-          "caption1": "Di origine belga, cresciuta in ambiente cosmopolita, laureata a Milano in scienze politiche ad indirizzo internazionale, ha maturato una lunga esperienza nelle risorse umane in grandi società italiane e straniere attive in diversi settori merceologici, coltivando contemporaneamente l’insegnamento dell’italiano agli stranieri, <br>per conto di rinomate scuole di lingue.<br><br>Sposata, madre di due figli, ama il modernariato, adora insegnare, è un’idealista e trova sempre la forza di sorridere.<br><br>Per lei L’impronta è la realizzazione di un sogno: fare quello che le piace, cioè insegnare, nel miglior contesto possibile.<br><br>",
+          "caption1": "Di origine belga, cresciuta in ambiente cosmopolita, laureata a Milano in Scienze Politiche ad indirizzo internazionale, ha maturato una lunga esperienza nelle risorse umane in grandi società italiane e straniere attive in diversi settori merceologici, coltivando contemporaneamente l’insegnamento dell’italiano agli stranieri, <br>per conto di rinomate scuole di lingue.<br><br>Sposata, madre di due figli, ama il modernariato, adora insegnare, è un’idealista e trova sempre la forza di sorridere.<br><br>Per lei L’impronta è la realizzazione di un sogno: fare quello che le piace, cioè insegnare, nel miglior contesto possibile.<br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"contatti.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CONTATTA</a>",
           "media2": {
             "image": {
@@ -904,7 +1022,7 @@
           },
           "title2": "Collaborazioni",
           "subtitle2": "Competenze specifiche",
-          "caption2": "Tutti i docenti sono professionisti dalla comprovata esperienza maturata presso aziende internazionali, iscritti all’albo dei presidenti di commissione per la formazione professionale, titolari di docenza presso istituti professionali.<br><br><b>Luca Tomaino</b> Studio Legale Tomaino&nbsp;<br>Docente per il corso di educazione finanziaria<br><br><b>Spazio Procaccini 32</b>, un nuovo spazio a Milano per eventi nel mondo della comunicazione, co-working e &nbsp;nomad-working.<br>L’impronta si appoggia per alcuni dei suoi corsi, principalmente strutturati per i gruppi, presso le sale dello Spazio Procaccini 32 di Via Giulio Cesare Procaccini 32 a Milano,&nbsp;<br><br>",
+          "caption2": "Tutti i docenti sono professionisti dalla comprovata esperienza maturata presso aziende internazionali, iscritti all’albo dei presidenti di commissione per la formazione professionale, titolari di docenza presso istituti professionali.<br><br><b>Luca Tomaino</b> Studio Legale Tomaino&nbsp;<br>Docente per il corso di educazione finanziaria<br><br><b>Spazio Procaccini 32</b>, un nuovo spazio a Milano per eventi nel mondo della comunicazione, co-working e &nbsp;nomad-working.<br>L’impronta si appoggia per alcuni dei suoi corsi, principalmente strutturati per i gruppi, presso le sale dello Spazio Procaccini 32 di Via Giulio Cesare Procaccini 32 a Milano,&nbsp;<br>",
           "button2": "<a data-app-btn=\"true\" href=\"contatti.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">CONTATTA</a>",
           "media3": {
             "image": {
@@ -956,6 +1074,178 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "24px"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "Collaboriamo attivamente con:",
+          "meta": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1j"
+        },
+        {
+          "_inherit": "features4",
+          "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "phone",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "edit",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
+            }
+          },
+          "title1": "",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Balfour Beatty Rail SpA<br>Calam Centro di Formazione Professionale<br>Istituto Canossa<br>Comune di Milano<br>Gruppo Mondadori<br><br><br>",
+          "title2": "",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Banca Intesa<br>Stef Italia SpA<br>Laboratoires Boiron<br>R.F. Celada SpA<br>",
+          "title3": "",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Università Bocconi<br>Gruppo ENI<br>Camera di Commercio Italo Azerbaijana<br>Alstom Power Italia SpA<br><br>",
+          "title4": "",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Idra srl<br>FCA - Gruppo FIAT<br>IEO - Istituto Europeo di Oncologia<br>UNASAS Accademia Scuola Acconciatori",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features7",
+          "_anchor": "features7-1i"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2e2e2e"
+          },
+          "text": "<p>\"Vivi con quelli che possono renderti migliore e che tu puoi rendere migliori, c'è un vantaggio reciproco, </p><p>perché gli uomini mentre insegnano imparano<span style=\"font-size: 1.07rem;\">\".</span></p><p><i>Seneca</i></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "content1-1e"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -968,7 +1258,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#677b42",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -979,11 +1269,14 @@
               "stateDetails": ""
             }
           },
-          "text1": "<p><strong>Sede legale</strong><br>Via Primo Maggio 2<br>20090 Segrate - Milano, Italia</p><p>P.Iva 09647260968<br><br>\n<strong>Contatti</strong><br>\nEmail: <a href=\"mailto:Tiziana Giulietta Beeckmans &lt;tizianabeeckmans@yahoo.it&gt;\" class=\"text-white\"></a><a href=\"mailto:info@limprontaformazione.it\" class=\"text-white\">info@limprontaformazione.it&nbsp;</a><tizianabeeckmans@yahoo.it></tizianabeeckmans@yahoo.it><br>\nPhone: +39 328 3865599</p><br><p><br></p><br><p>Credits: <a href=\"http://lorenzacozzoni.ilbello.com/\" class=\"text-black\" target=\"_blank\">loco|design</a></p>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html#header3-4\" class=\"text-black\">CHI SIAMO</a><a href=\"index.html#header3-4\"></a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"corsi.html\" class=\"text-black\">I CORSI</a></li><li><a href=\"contatti.html\" class=\"text-black\">CONTATTI</a></li><li><a href=\"http://www.limprontaformazione.it\" target=\"_blank\" class=\"text-black\">DOWNLOAD CATALOGO CORSI</a></li></ul>",
+          "text1": "<p><br></p><p>Via Primo Maggio 2<br>20090 Segrate - Milano, Italia</p><p>P.Iva 09647260968<br><br><br>\nEmail: <a href=\"mailto:Tiziana Giulietta Beeckmans &lt;tizianabeeckmans@yahoo.it&gt;\" class=\"text-white\"></a><a href=\"mailto:info@limprontaformazione.it\" class=\"text-white\">info@limprontaformazione.it&nbsp;</a><tizianabeeckmans@yahoo.it></tizianabeeckmans@yahoo.it><br>\nPhone: +39 328 3865599</p><br><p><br></p><br><p><br></p><br><p>Credits: <a href=\"http://lorenzacozzoni.ilbello.com/\" class=\"text-white\" target=\"_blank\">loco|design</a></p>",
+          "text2": "<ul><li><a href=\"index.html#header3-4\" class=\"text-white\">CHI SIAMO</a><a href=\"index.html#header3-4\"></a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"corsi.html\" class=\"text-white\">I CORSI</a></li><li><a href=\"contatti.html\" class=\"text-white\">CONTATTI</a></li><li><a href=\"http://www.limprontaformazione.it\" target=\"_blank\" class=\"text-white\">DOWNLOAD CATALOGO CORSI</a></li></ul>",
           "_styles": {
+            "UL": {
+              "color": "#ffffff"
+            },
             "P": {
-              "color": "#000000"
+              "color": "#ffffff"
             }
           }
         }
@@ -1049,12 +1342,28 @@
           "_styles": {
             ".form-control-label": {
               "color": "#232323"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px"
             }
           },
           "_anchor": "form1-1a"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#2e2e2e"
+          },
+          "text": "<p>\"Forse perché mi piace cercare le soluzioni ...è così che non ho paura dei problemi\".</p><p><i>Marc Levy</i></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "content1-1h"
         },
         {
           "_inherit": "menu",
@@ -1069,13 +1378,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "1rem"
@@ -1087,16 +1396,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#4b5a30"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#5f713d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#677b42"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1118,16 +1427,16 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#677b42",
             "fontSize": "1",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-bn-pos-1-618x120.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-verde-4-618x120.jpg",
               "height": 128,
               "alt": "L'impronta formazione linguistica",
               "link": "http://www.limprontaformazione.it",
@@ -1141,7 +1450,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CHI SIAMO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"persone.html\">Tiziana&nbsp;Beeckmans</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"corsi.html\">I CORSI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contatti.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"ftp://it31.siteground.eu//public_html/locodesign%20communication-low.compressed.pdf\" target=\"_blank\">DOWNLOAD CATALOGO CORSI</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CHI SIAMO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"persone.html\">Tiziana&nbsp;Beeckmans</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"corsi.html\">I CORSI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contatti.html\">CONTATTI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"ftp://it31.siteground.eu//public_html/locodesign%20communication-low.compressed.pdf\" target=\"_blank\">DOWNLOAD CATALOGO CORSI</a></li>"
         },
         {
           "_tags": [
@@ -1156,7 +1465,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#677b42",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
@@ -1167,11 +1476,14 @@
               "stateDetails": ""
             }
           },
-          "text1": "<p><strong>Sede legale</strong><br>Via Primo Maggio 2<br>20090 Segrate - Milano, Italia</p><p>P.Iva 09647260968<br><br>\n<strong>Contatti</strong><br>\nEmail: <a href=\"mailto:Tiziana Giulietta Beeckmans &lt;tizianabeeckmans@yahoo.it&gt;\" class=\"text-white\"></a><a href=\"mailto:info@limprontaformazione.it\" class=\"text-white\">info@limprontaformazione.it&nbsp;</a><tizianabeeckmans@yahoo.it></tizianabeeckmans@yahoo.it><br>\nPhone: +39 328 3865599</p><br><p><br></p><br><p>Credits: <a href=\"http://lorenzacozzoni.ilbello.com/\" class=\"text-black\" target=\"_blank\">loco|design</a></p>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"index.html#header3-4\" class=\"text-black\">CHI SIAMO</a><a href=\"index.html#header3-4\"></a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"corsi.html\" class=\"text-black\">I CORSI</a></li><li><a href=\"contatti.html\" class=\"text-black\">CONTATTI</a></li><li><a href=\"http://www.limprontaformazione.it\" target=\"_blank\" class=\"text-black\">DOWNLOAD CATALOGO CORSI</a></li></ul>",
+          "text1": "<p><br></p><p>Via Primo Maggio 2<br>20090 Segrate - Milano, Italia</p><p>P.Iva 09647260968<br><br><br>\nEmail: <a href=\"mailto:Tiziana Giulietta Beeckmans &lt;tizianabeeckmans@yahoo.it&gt;\" class=\"text-white\"></a><a href=\"mailto:info@limprontaformazione.it\" class=\"text-white\">info@limprontaformazione.it&nbsp;</a><tizianabeeckmans@yahoo.it></tizianabeeckmans@yahoo.it><br>\nPhone: +39 328 3865599</p><br><p><br></p><br><p><br></p><br><p>Credits: <a href=\"http://lorenzacozzoni.ilbello.com/\" class=\"text-white\" target=\"_blank\">loco|design</a></p>",
+          "text2": "<ul><li><a href=\"index.html#header3-4\" class=\"text-white\">CHI SIAMO</a><a href=\"index.html#header3-4\"></a><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><a href=\"corsi.html\" class=\"text-white\">I CORSI</a></li><li><a href=\"contatti.html\" class=\"text-white\">CONTATTI</a></li><li><a href=\"http://www.limprontaformazione.it\" target=\"_blank\" class=\"text-white\">DOWNLOAD CATALOGO CORSI</a></li></ul>",
           "_styles": {
+            "UL": {
+              "color": "#ffffff"
+            },
             "P": {
-              "color": "#000000"
+              "color": "#ffffff"
             }
           }
         }
